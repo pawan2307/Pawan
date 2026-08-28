@@ -5,3 +5,8 @@ colours
 vibrant
 Dark mode added
 video calls
+
+
+payment add
+send money
+received money
